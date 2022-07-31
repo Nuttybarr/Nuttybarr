@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nuttybarr
-- 👀 I’m interested in poopin farting
-- 🌱 I’m currently learning potty training
-- 💞️ I’m looking to collaborate on pop
-- 📫 How to reach me toilet
+- 👋 Hi, I’m Johnathan
+- 👀 I’m interested in Computational Biology
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me: 2023JohnathanMo@gmail.com
 
 <!---
 Nuttybarr/Nuttybarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
